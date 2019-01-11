@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsSharePointViewerApp", "WFSharepointApp\WindowsFormsSharePointViewerApp.csproj", "{F09B0035-3EE7-4D9C-9F4F-D3C1E719F7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09B0035-3EE7-4D9C-9F4F-D3C1E719F7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09B0035-3EE7-4D9C-9F4F-D3C1E719F7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09B0035-3EE7-4D9C-9F4F-D3C1E719F7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09B0035-3EE7-4D9C-9F4F-D3C1E719F7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {188635A7-5F9D-42C5-B535-ED4A76513483}
+	EndGlobalSection
+EndGlobal
