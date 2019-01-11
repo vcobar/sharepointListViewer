@@ -62,9 +62,9 @@
             this.labelUsername.AutoSize = true;
             this.labelUsername.Location = new System.Drawing.Point(10, 60);
             this.labelUsername.Name = "labelUsername";
-            this.labelUsername.Size = new System.Drawing.Size(55, 13);
+            this.labelUsername.Size = new System.Drawing.Size(73, 13);
             this.labelUsername.TabIndex = 2;
-            this.labelUsername.Text = "Username";
+            this.labelUsername.Text = "Email Address";
             // 
             // labelPassword
             // 
@@ -124,7 +124,7 @@
             this.dgListResults.Size = new System.Drawing.Size(422, 291);
             this.dgListResults.TabIndex = 9;
             // 
-            // Form1
+            // SharePointViewerForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -139,7 +139,7 @@
             this.Controls.Add(this.labelUsername);
             this.Controls.Add(this.labelSiteUrl);
             this.Controls.Add(this.txtSiteUrl);
-            this.Name = "Form1";
+            this.Name = "SharePointViewerForm";
             this.Text = "SharePoint List Viewer";
             ((System.ComponentModel.ISupportInitialize)(this.dgListResults)).EndInit();
             this.ResumeLayout(false);

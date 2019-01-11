@@ -36,3 +36,4 @@ L:\projects\sharepoint-api\WFSharepointApp\WFSharepointApp\obj\Release\WindowsFo
 L:\projects\sharepoint-api\WFSharepointApp\WFSharepointApp\obj\Release\WindowsFormsSharePointViewerApp.csproj.CopyComplete
 L:\projects\sharepoint-api\WFSharepointApp\WFSharepointApp\obj\Release\WFSharepointApp.exe
 L:\projects\sharepoint-api\WFSharepointApp\WFSharepointApp\obj\Release\WFSharepointApp.pdb
+L:\projects\sharepoint-api\WFSharepointApp\WFSharepointApp\obj\Release\WindowsFormsSharePointViewerApp.csprojAssemblyReference.cache
