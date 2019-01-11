@@ -5,7 +5,7 @@ A simple .NET WindowsForms Applicate that allows to view your SharePoint Lists. 
 # Prerquesite(s)
 - Windows OS
 - WFSharepointApp EXE ( Download [here](https://drive.google.com/file/d/1bVmjBChxtRa3RDTq7RF5i_S1wsH5TTW2/view?usp=sharing) )
-- Access to SharePoint Online (Office 365)
+- Access to SharePoint Online (Office 365, on premise setup will not work with the way the authentication is coded, could be wrong on this)
 
 # Usage
 - Enter a SharePoint site URL you have permission to view
