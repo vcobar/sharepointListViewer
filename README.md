@@ -10,7 +10,7 @@ A simple .NET WindowsForms Applicate that allows to view your SharePoint Lists. 
 # Usage
 - Enter a SharePoint site URL you have permission to view
 - Enter your Office365 credentials
-- Enter List you would like to View
+- Enter the List you would like to View
 - Click on 'Get Data' button
 
 # Screenshot
